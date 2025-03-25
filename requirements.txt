@@ -1,0 +1,51 @@
+# ========== 深度学习核心框架 ==========
+tensorflow==2.10.0
+keras==2.10.0
+tensorflow-intel==2.13.0
+tensorflow-estimator==2.10.0
+tensorboard==2.10.1
+
+# ========== 数据处理与科学计算 ==========
+numpy==1.24.3
+scipy==1.10.1
+pandas==2.0.3  # 自动对齐版本补充
+scikit-learn==1.2.2
+h5py==3.11.0
+joblib==1.4.2
+
+# ========== 计算机视觉 ==========
+Pillow==10.0.0
+matplotlib==3.7.5
+contourpy==1.1.1
+cycler==0.12.1
+fonttools==4.56.0
+
+# ========== Web框架与工具 ==========
+Flask==2.3.2
+Werkzeug==2.3.7
+Jinja2==3.1.6
+click==8.1.8
+blinker==1.7.0  # Flask信号支持
+itsdangerous==2.2.0
+
+# ========== 网络通信与安全 ==========
+requests==2.32.3
+grpcio==1.70.0
+google-auth==2.38.0
+oauthlib==3.2.2
+requests-oauthlib==2.0.0
+urllib3==2.2.3
+certifi==2025.1.31
+
+# ========== 序列化与编译工具 ==========
+protobuf==3.19.6
+flatbuffers==25.2.10
+astunparse==1.6.3
+opt_einsum==3.4.0
+
+# ========== 系统工具 ==========
+setuptools==56.0.0
+wheel==0.45.1
+pip==25.0.1
+importlib_metadata==8.5.0
+typing_extensions==4.5.0
